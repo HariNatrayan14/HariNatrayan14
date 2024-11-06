@@ -87,7 +87,7 @@
     <img alt="Deri Kurniawan Streak Stats" src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
   </picture>
 </p>
-![](/assets/images/horizontal-divider-gradient.gif)
+  <img alt="Deri Kurniawan Streak Stats" src="/assets/images/horizontal-divider-gradient.gif" />
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
