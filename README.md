@@ -78,7 +78,6 @@
   <img alt=" Streak Stats" src="/assets/images/horizontal-divider-gradient.gif" />
 <h3 align="center">🔥Streak Stats🔥</h3>
 
-<!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=dark" />
