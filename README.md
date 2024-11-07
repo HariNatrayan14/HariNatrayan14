@@ -6,7 +6,7 @@
       /></a>
     </h1>
     <h3 align="center">
-      Backend Developer 👨‍💻| Software Engineer 🌐🛠️| Mobile app Developer 📱
+      FullStack Developer 👨‍💻 | Software Engineer 🌐🛠️
     </h3>
     
 <table align="center">
@@ -90,9 +90,10 @@
 
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
+  <a href="https://www.linkedin.com/in/hari-natrayan-9a16952ba/">
   <img alt=" Streak Stats" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
     <img alt=" Streak Stats" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      <img alt=" Streak Stats" src="https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 
 </div>
   <img alt=" Streak Stats" src="/assets/images/horizontal-divider-gradient.gif" />
