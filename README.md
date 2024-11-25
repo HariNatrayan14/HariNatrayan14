@@ -28,8 +28,8 @@
       <br>MySQL
     </td>
  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
-      <br>Node JS
+        <img src="https://skillicons.dev/icons?i=nuxtjs" alt="icon" width="65" height="65" />
+      <br>nuxt JS
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vuejs" alt="icon" width="65" height="65" />
