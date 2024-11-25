@@ -24,6 +24,11 @@
       <br>MySQL
     </td>
   </tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -38,8 +43,8 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="48" height="48" alt="bootstrap" />
+      <br>TailwindCSS
     </td>
       <td align="center" width="96">
         <img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" width="48" height="48" alt="SQL" />
