@@ -16,26 +16,8 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
-    s  <br>.Net
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -75,16 +57,6 @@
   
  </tr>
 </table>
-  <img alt=" Streak Stats" src="/assets/images/horizontal-divider-gradient.gif" />
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-    <img alt=" Streak Stats" src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png&theme=light" />
-  </picture>
-</p>
   <img alt=" Streak Stats" src="/assets/images/horizontal-divider-gradient.gif" />
 
 <h3 align="center">🤝Connect with Me🤝</h3>
