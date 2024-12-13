@@ -6,7 +6,7 @@
       /></a>
     </h1>
     <h3 align="center">
-      FullStack Developer 👨‍💻 | Software Engineer 🌐🛠️
+      FullStack Developer 👨‍💻 
     </h3>
     
 <table align="center">
